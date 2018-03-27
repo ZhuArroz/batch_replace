@@ -1,0 +1,8 @@
+on	BBB	aa	
+on	^C	TT	CR
+on	Z$	QQ	CR
+on	aa	AA	C
+off	\n	RRRR	CR
+on	aa	AA	C
+on	(\n)(^▲.*?$)	hello: \g<2>	CR
+
