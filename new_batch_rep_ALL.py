@@ -84,15 +84,12 @@ if __name__ == "__main__":
     print("14:28")
     print("14:47")
     print("14:57")
-<<<<<<< HEAD
     print("23:15")
     print("23:07")
-    
-=======
     print("23:07")
     print("23:15")
     print("23:18")
     print("23:32")
+    print("23:40")
 
->>>>>>> a37334315978f20bddf5650e6ed46ece743dc675
 
