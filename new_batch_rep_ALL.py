@@ -102,4 +102,8 @@ if __name__ == "__main__":
     print("00:33")
     print("00:39")
     print("00:41")
+<<<<<<< HEAD
     print("00:49")
+=======
+    print("00:50")
+>>>>>>> a70eb0c85f587a453fee9c6243e4f4c3fc65c64a
