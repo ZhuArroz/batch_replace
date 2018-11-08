@@ -79,6 +79,8 @@ if __name__ == "__main__":
     print("test4")
     print("test5")
     print("1")
-    print("14:12")
     print("14:20")
+    print("14:12")
+    print("14:28")
+    print("14:47")
 
