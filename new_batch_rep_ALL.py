@@ -107,3 +107,4 @@ if __name__ == "__main__":
     print("00:49")
     print("00:50")
     print("00:50")
+    print("01:07")
