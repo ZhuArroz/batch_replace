@@ -73,6 +73,7 @@ def main():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
     print("test")
     print("test2,test3")
@@ -80,3 +81,12 @@ if __name__ == "__main__":
     print("test5")
     print("1")
     print("14:12")
+=======
+	main()
+	print("test")
+	print("test2,test3")
+	print("test4")
+	print("test5")
+  print("1")
+	print("13:59")
+>>>>>>> 8ab9464a5a16beacfe92c1b128c6ed7a9fbc598a
