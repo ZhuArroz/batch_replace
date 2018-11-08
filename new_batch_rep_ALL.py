@@ -104,4 +104,9 @@ if __name__ == "__main__":
     print("00:41")
     print("00:49")
     print("00:50")
+    print("00:50")
+    print("01:00")
+    print("00:49")
+    print("00:50")
+    print("00:50")
 
