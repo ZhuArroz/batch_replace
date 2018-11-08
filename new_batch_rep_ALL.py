@@ -88,5 +88,5 @@ if __name__ == "__main__":
     print("23:15")
     print("23:18")
     print("23:32")
-
+    print("23:42")
 
