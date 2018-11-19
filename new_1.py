@@ -57,8 +57,6 @@ xxxyyy
 aaabbb
 
 
-15:33
-
 
 15:37
 
