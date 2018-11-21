@@ -105,12 +105,14 @@ if __name__ == "__main__":
     print("00:49")
     print("00:50")
     print("00:50")
-    print("01:00")
     print("00:49")
     print("00:50")
     print("00:50")
     print("01:07")
 
+    print("test")
+
     print("aaaaaa")
     print("gggggg")
     print("eeeeee")
+
