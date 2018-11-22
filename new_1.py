@@ -10,7 +10,6 @@ print("11:30)
 print("11:11)
 print("11:20)
 
-<<<<<<< HEAD
 111
 222
 333
@@ -22,9 +21,7 @@ xxxyyy
 aaabbb
 
 
-
 15:37
-
 
 aaaaaaa
 ggggggg
@@ -48,6 +45,4 @@ EEEFFFFFFFFFFff
 
 HEYYYYYYYYY
 
-=======
 print("16:12")
->>>>>>> c996b58... 16:12
